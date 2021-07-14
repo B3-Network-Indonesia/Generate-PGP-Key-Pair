@@ -1,0 +1,15 @@
+{
+  "name": "generate_pgp_keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openpgp": "^4.10.8"
+  }
+}
